@@ -3,7 +3,7 @@
 <div align="center">
   Profile View
   <br>
-  <img src="https://profile-counter.glitch.me/ShubhampTagline/count.svg" />
+  <img src="https://profile-counter.glitch.me/Shubham0n/count.svg" />
 </div>
 
 </br>
@@ -37,16 +37,16 @@
 
 </br>
 </br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShubhampTagline" alt="ShubhampTagline" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubham0n" alt="Shubham0n" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <br />
 <div>
-  <a><img align="Center" src="https://github-readme-stats.vercel.app/api?username=ShubhampTagline&show_icons=true&locale=en" alt="ShubhampTagline" /></a>
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhampTagline&show_icons=true&locale=en&layout=compact" alt="ShubhampTagline" /></a>
+  <a><img align="Center" src="https://github-readme-stats.vercel.app/api?username=Shubham0n&show_icons=true&locale=en" alt="Shubham0n" /></a>
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubham0n&show_icons=true&locale=en&layout=compact" alt="Shubham0n" /></a>
 </div>
 <br>
-<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhampTagline&" alt="ShubhampTagline" /></a>
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham0n&" alt="Shubham0n" /></a>
 
 
 <!--
