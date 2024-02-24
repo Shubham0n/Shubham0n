@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Shubham!</h1>
 
-<div align="center">
-  Profile View
-  <br>
-  <img src="https://profile-counter.glitch.me/Shubham0n/count.svg" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham0-n&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham0-n" /> </p>
 
 </br>
 <div align="center">
