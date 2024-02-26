@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Shubham!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham0-n&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham0-n" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham0-n&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham0n" /> </p>
 
 </br>
 <div align="center">
