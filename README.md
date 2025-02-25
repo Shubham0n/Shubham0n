@@ -6,6 +6,7 @@
 <div align="center">
   Programming Languages
   <br>
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   <code><img height="50" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
   <code><img height="50" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
   <code><img height="50" alt="graphql" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
