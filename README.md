@@ -4,33 +4,39 @@
 
 </br>
 <div align="center">
-  Programming Languages
+  Backend Languages
   <br>
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  <code><img height="50" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-  <code><img height="50" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
-  <code><img height="50" alt="graphql" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="50" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
-  <code><img height="50" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
-  <code><img height="50" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" />
+</div>
+
+</br>
+<div align="center">
+  Frontend Languages
+  <br>
+  <img src="https://skillicons.dev/icons?i=javascript,jquery,html,css,react,tailwind" />
 </div>
 
 </br>
 <div align="center">
   Database
   <br>
-  <code><img height="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"></code>
-  <code><img height="50" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,redis,mongodb,dynamodb" />
+</div>
+
+</br>
+<div align="center">
+  DevOps Tools
+  <br>
+ <img src="https://skillicons.dev/icons?i=docker,aws,linux,github,githubactions,nginx" />
 </div>
 
 </br>
 <div align="center">
   Other Tools
   <br>
-  <code><img height="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"></code>
-  <code><img height="50" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
-  <code><img height="50" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+ <img src="https://skillicons.dev/icons?i=postman,sentry,vscode,figma" />
 </div>
+
 
 </br>
 </br>
